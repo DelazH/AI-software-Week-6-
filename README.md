@@ -50,3 +50,25 @@ I will start generating the content and code. Let's begin with:
 4. **Task 3: Ethics Analysis** (300 words).
 5. **Part 3: Futuristic Proposal** (1-page).
 6. **Bonus Task**: Quantum circuit.
+## Next Deliverables
+By Day 3:
+
+Colab notebook for Edge AI prototype (TrashNet CNN + TFLite conversion)
+
+Draft essays for Part 1
+
+Smart agriculture diagram code (Matplotlib)
+
+By Day 5:
+
+Quantum circuit simulation results
+
+Ethics analysis draft
+
+Futuristic proposal outline
+
+By Day 7:
+
+Final PDF report (LaTeX formatted)
+
+Peer-review ready pitch deck (3 slides: problem/solution/impact)

@@ -1,0 +1,46 @@
+Part 1: Theoretical Analysis
+Q1: Edge AI in Healthcare
+Real-world example: Wearable ECG monitors detecting atrial fibrillation in real-time.
+
+Latency Reduction: On-device inference avoids cloud roundtrips (critical for stroke prevention)
+
+Privacy Enhancement: Raw ECG data never leaves the device; only anonymized alerts are shared
+
+Technical angle: Model quantization for ARM Cortex-M processors
+
+Q2: Quantum AI in Drug Discovery
+
+Aspect	Classical AI	Quantum AI
+Optimization	Gradient descent (local minima traps)	Quantum annealing (global optimum)
+Speed	O(n²) for molecular simulations	O(√n) with Grover's algorithm
+Benefiting Industries:
+Pharma: Accelerating protein folding simulations (e.g., Alzheimer's drug candidates)
+
+Oncology: Optimizing radiation therapy plans in seconds vs. hours
+
+Q3: Human-AI Collaboration in Radiology
+
+Transformation: AI as "co-pilot" for tumor detection → radiologists shift to clinical decision architects
+
+New Roles:
+
+AI Validation Specialists: Audit false negatives in cancer screening
+
+Patient Advocacy Coordinators: Explain AI diagnoses to vulnerable populations
+
+Societal Impact: 30% faster diagnostics but requires HIPAA-compliant explainable AI
+
+Case Study: AI-IoT Smart Traffic
+
+Sustainability Gains:
+
+Dynamic traffic light routing reduces idling emissions by 18% (Singapore case study)
+
+Predictive maintenance of EV charging stations
+
+Societal Challenges:
+
+Data Weaponization: Hacktivists manipulating congestion data during emergencies
+
+Access Inequality: Low-income districts receiving fewer sensors
+

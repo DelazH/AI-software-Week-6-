@@ -1,0 +1,17 @@
+"ClimaNet: Personal Carbon Footprint Manager (2030)"
+
+Problem: Individuals lack real-time tools to combat climate change
+
+AI Workflow:
+graph LR
+  A[Smart Home Sensors] --> B(Edge AI)
+  C[Transportation APIs] --> B
+  D[Purchase History] --> B
+  B --> E[Transformer Model]
+  E --> F[Personalized Carbon Budget]
+  F --> G[AR Interface]
+  Societal Impact:
+
+✅ Benefit: 15% global CO₂ reduction via behavioral nudges
+
+❌ Risk: Insurance companies misusing privacy data
